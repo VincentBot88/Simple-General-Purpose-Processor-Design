@@ -17,8 +17,7 @@ This project focuses on designing a simple **General-Purpose Processor** using *
 ## Components
 
 ### Input Data
-- Input values **A** and **B** are derived from the last four digits of the student ID.
-- A = 36 (00100100 in binary), B = 73 (01001001 in binary).
+- Eight bit input values **A** and **B** 
 
 ### Latches
 - Temporary storage units for the input values. Operate based on the clock signal.
