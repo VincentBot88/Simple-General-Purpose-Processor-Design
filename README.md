@@ -35,9 +35,5 @@ This project focuses on designing a simple **General-Purpose Processor** using *
 - Outputs results in two parts: **R1** and **R2**.
 - Handles negative results using a **Neg** output.
 
-## Problem Sets
-- **Problem Set 1**: Demonstrates the processor's ability to compute and display hexadecimal outputs.
-- **Problem Set 2 & 3**: Extended to handle additional functionality like even parity checking.
-
 ## Conclusion
 This project provided hands-on experience with **VHDL design** and **FPGA implementation**. By integrating key components, we demonstrated the functionality of a simple general-purpose processor, emphasizing sequential processing, control logic, and arithmetic operations.
